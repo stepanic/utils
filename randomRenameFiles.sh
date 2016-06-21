@@ -1,5 +1,5 @@
 #!/bin/sh
-echo 'USAGE ./randomRenameFilesPrefix <PATH_TO_DIR>'
+echo 'USAGE ./randomRenameFiles.sh <PATH_TO_DIR>'
 echo 'foo.txt TO 00034_foo.txt'
 
 path=$1
